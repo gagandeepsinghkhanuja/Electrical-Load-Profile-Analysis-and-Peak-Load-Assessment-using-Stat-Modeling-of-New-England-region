@@ -1,24 +1,33 @@
 # Project-Elelctrical-Load-Profile-Analysis-and-Peak-Load-Assesment-using-Statistical-Modeling
 A methodology that relates climate parameters to Peak Demand at county level scales has been applied to six states in the Independent System Operator (ISO) New England region to predict daily peak demand. These models allow for detailed analyses of electricity demand and its vulnerabilities to climate change at county level scale. The results include the comparison between various models and indicate the best model for predicting the daily peak demand significantly.
 
+# Data Sources :
 
 
 
 
 
 # References:
-[1] Sayanti Mukhopadhyaya, Roshanak Nateghi, Climate sensitivity of end-use electricity consumption in the built environment: An application to the state of Florida, United States.
+[1] Local Climatological Data (LCD) | Data Tools | Climate Data Online (CDO) | National Climatic Data Center (NCDC).
 
-[2] Sailor DJ, Muñoz JR. Sensitivity of electricity and natural gas consumption to climate in the U.S.A.—Methodology and results for eight states. Energy 1997;22:987–98. doi:http://dx.doi.org/10.1016/S0360-5442(97)00034-0
+[2] ISO New England - Energy, Load, and Demand Reports.
 
-[3] Hastie, T., Tibshirani, R., & Friedman, J. (2009). The Elements of Statistical Learning. Elements, 1, 337–387
+[3] Jonathan Koomey and Richard E. Brown. The role of building technologies in reducing and controlling peak electricity demand. Technical Report LBNL-49947, Lawrence Berkeley National Lab. (LBNL), Berkeley, CA (United States), September 2002.
 
-[4] James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). Springer Texts in Statistics An Introduction to Statistical Learning - with Applications in R. https://doi.org/10.1007/978-1-4614-7138-7
+[4] P. Regulagadda, I. Dincer, and G. F. Naterer. Exergy analysis of a thermal power plant with measured boiler and turbine losses. Applied Thermal Engineering, 30(8):970–976, June 2010.
 
-[5] Ruth M, Lin A-C. Regional energy demand and adaptations to climate change: Methodology and application to the state of Maryland, USA. Energy Policy 2006;34:2820–33. doi:http://dx.doi.org/ 10.1016/j.enpol. 2005.04.016
+[5] Energy and Utility Analytics Market worth 3.41 Billion USD by 2021.
 
-[6] Amato AD, Ruth M, Kirshen P, Horwitz J. Regional Energy Demand Responses To Climate Change: Methodology And Application To The Commonwealth Of Massachusetts. Clim Change 2005;71:175–201. doi:10.1007/s10584-005-5931-2.
+[6] Maximilian Auffhammer, Patrick Baylis, and Catherine H. Hausman. Climate change is projected to have severe impacts on the frequency and intensity of peak electricity demand across the United States. Proceedings of the National Academy of Sciences of the United States of America, 114(8):1886–1891, February 2017.
 
-[7] Badri MA. Analysis of demand for electricity in the United States. Energy 1992;17:725– 33. doi:http://dx.doi.org/10.1016/0360-5442(92)90080-J.
+[7] David J. Sailor and J. Ricardo Muñoz. Sensitivity of electricity and natural gas consumption to climate in the U.S.A.—Methodology and results for eight states. Energy, 22(10):987–998, October 1997.
 
-[8] Mirasgedis S, Sarafidis Y, Georgopoulou E, Kotroni V, Lagouvardos K, Lalas DP. Modeling framework for estimating impacts of climate change on electricity demand at regional level: Case of Greece. Energy Convers Manag 2007;48:1737–50.
+[8] David J Sailor. Relating residential and commercial sector electricity loads to climate— evaluating state level sensitivities and vulnerabilities. Energy, 26(7):645–657, July 2001.
+
+[9] Anna Carolina Kossmann de Menezes, Andrew Cripps, Richard A. Buswell, Jonathan A. Wright, and Dino Bouchlaghem. Estimating the energy consumption and power demand of small power equipment in office buildings. 2014.
+
+[10] Eric Fox. UEsleicntricg/ GaLs o/ Waatder Research Data to Develop Long-Term Peak Demand Forecasts. page 33.
+
+[11] Global Utility and Energy Analytics Market - Expected to be Worth USD2.9 Billion by 2020 - Research and Markets, November 2017.
+
+[12] Adam Kapelner and Justin Bleich (R package). bartMachine: Bayesian Additive RegressionTrees, April 2018.
