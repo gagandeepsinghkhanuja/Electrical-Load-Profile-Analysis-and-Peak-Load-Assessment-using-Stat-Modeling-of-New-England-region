@@ -1,5 +1,6 @@
 # Project-Elelctrical-Load-Profile-Analysis-and-Peak-Load-Assesment-using-Statistical-Modeling
-A methodology that relates climate parameters to Peak Demand at county level scales has been applied to six states in the Independent System Operator (ISO) New England region to predict daily peak demand. These models allow for detailed analyses of electricity demand and its vulnerabilities to climate change at county level scale. The results include the comparison between various models and indicate the best model for predicting the daily peak demand significantly.
+
+Projecting the long term trends in the energy demad is an increasingly complex endeavor due to uncertain changes in factors such as climate and policy. A methodology that relates climate parameters to Peak Demand at county level scales has been applied to six states in the Independent System Operator (ISO) New England region to predict daily peak demand. These models allow for detailed analyses of electricity demand and its vulnerabilities to climate change at county level scale. The results include the comparison between various models and indicate the best model for predicting the daily peak demand significantly.
 
 The peak load in this project refers to the highest demand of electrical power daily. The power demand depends on various factors like - demography, economy, weather, season, day of the week and more. This project focus on weather inputs, public available from the NOAA website.
 
