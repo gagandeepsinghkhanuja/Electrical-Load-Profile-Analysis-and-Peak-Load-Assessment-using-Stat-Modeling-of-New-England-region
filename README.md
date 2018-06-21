@@ -7,7 +7,7 @@ The peak load in this project refers to the highest demand of electrical power d
 # Data Sources :
 The dataset consists of weather parameters, energy parameters and socio-economic parameters. 
 
-[1] Energy Peak Load Data was obtained from the database of ISO-NE (ISO - New England) website which is an independent, non-profit Regional Transmission Organization (RTO) that oversees the operations of the New England's bulk electric power system and transmission lines. The dataset obtained was from this website 01-Jan-2011 to 31-Dec-2017.
+[1] Energy Peak Load Data was obtained from the database of ISO-NE (ISO - New England) website which is an independent, non-profit Regional Transmission Organization (RTO) that oversees the operations of the New England's bulk electric power system and transmission lines. The dataset obtained was from 01-Jan-2011 to 31-Dec-2017.
 
 [2] Weather data was obtained from the National Digital Forecast Database maintained by National Oceanic and Atmospheric Administration (NOAA), beginning from 01-Jan-2011 to 31-Dec-2017.
 
@@ -15,7 +15,7 @@ The dataset consists of weather parameters, energy parameters and socio-economic
 
 
 # Description of Data :
-The data used for Modeling pertains to the New England region ( during the period of January 2011 to December 2017 ) . The dataset has been aggregated from different sources and classified into three categories of (i) peak load electricity demand data; (ii) climate data; and (iv) socio-economic data.
+The data used for Modeling pertains to the New England region ( during the period of January 2011 to December 2017 ) . The dataset has been aggregated from different sources and classified into three categories of (i) peak load electricity demand data; (ii) climate data; and (iii) socio-economic data.
 
 While, peak load electricity demand data has been obtained at hourly scale directly from the source.It has been aggregated to daily level depending on its peak demand on that particular day for the purpose of analysis. 
 
