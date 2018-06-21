@@ -13,6 +13,17 @@ The dataset consists of weather parameters, energy parameters and socio-economic
 
 [3] The population and population density dataset was obtained from the United States census bureau starting from 01-Jan-2011 to 31-Dec-2017. 
 
+
+# Description of Data :
+The data used for Modeling pertains to the New England region ( during the period of January 2011 to December 2017 ) . The dataset has been aggregated from different sources and classified into three categories of (i) peak load electricity demand data; (ii) climate data; and (iv) socio-economic data.
+
+While, peak load electricity demand data has been obtained at hourly scale directly from the source.It has been aggregated to daily level depending on its peak demand on that particular day for the purpose of analysis. 
+
+The weather data was initially obtained at daily-level,. Some missing values in the dataset had been replaced with the values of the weather parameter of the nearest county. 
+
+The time scale of socio-economic data varies from monthly-level to yearly-level. 
+
+
 # References:
 [1] Local Climatological Data (LCD) | Data Tools | Climate Data Online (CDO) | National Climatic Data Center (NCDC).
 
