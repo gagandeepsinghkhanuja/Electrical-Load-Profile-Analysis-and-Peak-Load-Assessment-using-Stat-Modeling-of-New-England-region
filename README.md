@@ -1,6 +1,6 @@
 # Project Details :
 
-This project was a part of the course Predictive Modeling that I had taken during Spring 2018. The project report has been written in laTeX and supporting documents have been attached to help and benefit the community and the users.
+This project was a part of the course Predictive Modeling that I had taken during Spring 2018. The project report has been written in laTeX and supporting documents have been attached to benefit the community and the users.
 
 The project aimed at predicting the peak load consumption of the New England Region based on various factors like demography, economy, weather, season and the day of the week. The data has been collected from various public websites and then been merged to a single dataset which has been then used for Statistical Modeling. 
 
