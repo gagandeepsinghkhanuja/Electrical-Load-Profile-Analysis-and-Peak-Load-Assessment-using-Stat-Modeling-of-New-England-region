@@ -1,10 +1,15 @@
 # Project Details :
 
+There are three projects in the Energy sector I worked on, during Spring 2018 under the guidance of Professor 
+Roshanak (Roshi) Nateghi. I have tried working on each one of them differently. In other projects I have made use of Tableau and R Shiny as well. 
+
 This project was a part of the course Predictive Modeling that I had taken during Spring 2018. The project report has been written in laTeX and supporting documents have been attached to benefit the community and the users.
 
 The project aimed at predicting the peak load consumption of the New England Region based on various factors like demography, economy, weather, season and the day of the week. The data has been collected from various public websites and then been merged to a single dataset which has been then used for Statistical Modeling. 
 
 The detailed implementation,results,predictions and analysis has been discussed in the project report along with supporting document. Please check the available PDF files uploaded along with the codes. 
+
+The dataset was huge. The six states combined had more than 800000 instances and 23 attributes.
 
 DataPreprocessing-Part8.R doesn't exist at all. Please deal with the wrong numbering. Apologies. 
 
