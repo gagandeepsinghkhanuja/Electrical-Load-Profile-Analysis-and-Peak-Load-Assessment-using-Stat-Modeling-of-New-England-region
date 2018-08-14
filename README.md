@@ -8,6 +8,9 @@ The detailed implementation,results,predictions and analysis has been discussed 
 
 
 
+# Contact Details :
+For any questions, you can reach out to me at gkhanuja@purdue.edu
+
 
 # Electrical-Load-Profile-Analysis-and-Peak-Load-Assessment-using-Stat-Modeling-of-New-England-region
 
@@ -61,6 +64,3 @@ The time scale of socio-economic data varies from monthly-level to yearly-level.
 [12] Adam Kapelner and Justin Bleich (R package). bartMachine: Bayesian Additive RegressionTrees, April 2018.
 
 
-
-# Contact Details :
-For any questions, you can reach out to me at gkhanuja@purdue.edu
