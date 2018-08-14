@@ -1,3 +1,14 @@
+# Project Details :
+
+This project was a part of the course Predictive Modeling that I had taken during Spring 2018. The project report has been written in laTeX and supporting documents have been attached to help and benefit the community and the users.
+
+The project aimed at predicting the peak load consumption of the New England Region based on various factors like demography, economy, weather, season and the day of the week. The data has been collected from various public websites and then been merged to a single dataset which has been then used for Statistical Modeling. 
+
+The detailed implementation,results,predictions and analysis has been discussed in the project report along with supporting document. Please check the available PDF files uploaded along with the codes. 
+
+
+
+
 # Electrical-Load-Profile-Analysis-and-Peak-Load-Assessment-using-Stat-Modeling-of-New-England-region
 
 Projecting the long term trends in the energy demad is an increasingly complex endeavor due to uncertain changes in factors such as climate and policy. A methodology that relates climate parameters to Peak Demand at county level scales has been applied to six states in the Independent System Operator (ISO) New England region to predict daily peak demand. These models allow for detailed analyses of electricity demand and its vulnerabilities to climate change at county level scale. The results include the comparison between various models and indicate the best model for predicting the daily peak demand significantly.
