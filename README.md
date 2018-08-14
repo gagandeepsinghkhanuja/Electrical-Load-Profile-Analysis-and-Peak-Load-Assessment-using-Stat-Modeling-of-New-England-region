@@ -1,6 +1,6 @@
 # Project Details :
 
-There are three projects in the Energy sector I worked on, during Spring 2018 under the guidance of Professor 
+There were three projects in the Energy sector I worked on, during Spring 2018 under the guidance of Professor 
 Roshanak (Roshi) Nateghi. I have tried working on each one of them differently. In other projects I have made use of Tableau and R Shiny as well. 
 
 This project was a part of the course Predictive Modeling that I had taken during Spring 2018. The project report has been written in laTeX and supporting documents have been attached to benefit the community and the users.
