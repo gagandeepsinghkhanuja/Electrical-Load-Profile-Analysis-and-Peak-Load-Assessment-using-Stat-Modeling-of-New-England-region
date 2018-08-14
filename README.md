@@ -48,3 +48,8 @@ The time scale of socio-economic data varies from monthly-level to yearly-level.
 [11] Global Utility and Energy Analytics Market - Expected to be Worth USD2.9 Billion by 2020 - Research and Markets, November 2017.
 
 [12] Adam Kapelner and Justin Bleich (R package). bartMachine: Bayesian Additive RegressionTrees, April 2018.
+
+
+
+
+For any questions, you can reach out to me at gkhanuja@purdue.edu
